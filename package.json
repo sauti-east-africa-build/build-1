@@ -1,0 +1,24 @@
+{
+  "name": "build-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauti-east-africa-build/build-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauti-east-africa-build/build-1/issues"
+  },
+  "homepage": "https://github.com/sauti-east-africa-build/build-1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0"
+  }
+}
